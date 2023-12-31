@@ -1,0 +1,26 @@
+site_name: Ingénierie et Développement Durable
+theme:
+  font:
+    text: Roboto
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: fr
+  palette:
+    primary: teal
+    accent: indigo
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/phmorin
+
